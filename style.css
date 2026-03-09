@@ -1,61 +1,57 @@
-
 body{
-font-family: Arial, Helvetica, sans-serif;
 margin:0;
-background:#f4f6f8;
+font-family:Arial;
 }
 
 header{
-background:#0b3d6d;
+
+background:#154b78;
 color:white;
-padding:20px;
+padding:30px;
+
 }
 
 .logo-area{
+
 display:flex;
 align-items:center;
-gap:23px;
+gap:30px;
+
 }
 
 .logo-area img{
-height:260px;
+
+width:300px;
+height:auto;
+
+}
+
+h1{
+margin:0;
+font-size:40px;
+}
+
+h2{
+margin:5px 0;
+font-size:22px;
+}
+
+p{
+margin:5px 0;
 }
 
 nav{
-background:#222;
-padding:12px;
-text-align:center;
+
+background:black;
+padding:15px;
+
 }
 
 nav a{
+
 color:white;
-margin:0 15px;
+margin-right:20px;
 text-decoration:none;
 font-weight:bold;
-}
 
-section{
-background:white;
-margin:20px;
-padding:30px;
-border-radius:6px;
-}
-
-footer{
-background:#0b3d6d;
-color:white;
-text-align:center;
-padding:15px;
-}
-
-.whatsapp{
-position:fixed;
-bottom:20px;
-right:20px;
-background:#25D366;
-color:white;
-padding:12px 18px;
-border-radius:30px;
-text-decoration:none;
-font-weight:bold;
 }

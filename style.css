@@ -14,11 +14,11 @@ padding:20px;
 .logo-area{
 display:flex;
 align-items:center;
-gap:20px;
+gap:25px;
 }
 
 .logo-area img{
-height:80px;
+height:autopx;
 }
 
 nav{
